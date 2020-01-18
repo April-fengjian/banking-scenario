@@ -1,5 +1,5 @@
 //
-//Zhiqi Bei(#250916374)
+//Zhiqi Bei
 //zbei@uwo.ca
 
 #include <stdio.h>
